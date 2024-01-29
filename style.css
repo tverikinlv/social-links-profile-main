@@ -103,6 +103,6 @@ li:last-child {
 @media (min-width: 420px) {
     main {
         width: 385px;
-        padding-inline: 2.5rem;
+        padding: 2.5rem;
     }
 }
