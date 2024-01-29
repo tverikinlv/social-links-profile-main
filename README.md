@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/tverikinlv/social-links-profile-main)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://tverikinlv.github.io/social-links-profile-main/)
 
 ## My process
 
